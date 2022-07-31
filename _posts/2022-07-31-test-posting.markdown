@@ -1,8 +1,8 @@
 ---
 title:  "test posting"
 date:   2022-07-31
-categories: [etc]
-tags: [etc]
+categories: []
+tags: []
 ---
 testing
 

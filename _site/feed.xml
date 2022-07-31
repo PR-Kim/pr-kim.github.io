@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome</title>
+    <description>개발과 관련된 글들을 차근차근 써볼까 합니다.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 31 Jul 2022 20:58:10 +0900</pubDate>
+    <lastBuildDate>Sun, 31 Jul 2022 20:58:10 +0900</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+  </channel>
+</rss>

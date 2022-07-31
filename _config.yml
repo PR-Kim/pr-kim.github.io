@@ -1,6 +1,6 @@
 # Site settings
-title: Welcome
-description: 개발과 관련된 글들을 차근차근 써볼까 합니다.
+title: 개발자 김푸른의 블로그입니다.
+#description: 개발과 관련된 글들을 차근차근 써볼까 합니다.
 url: 'http://pr-kim.com/'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'

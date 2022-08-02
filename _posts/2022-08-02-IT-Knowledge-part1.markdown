@@ -37,6 +37,6 @@ WAS : DB조회나 다양한 로직처리를 필요로하는 동적 콘텐츠 제
 WAS : Tomcat, JBoss, Jeus, Web Sphere 등        
 <!--<img src="../images/post/webserver-vs-was.png" width="500px" height="200px" title="Web vs Was">
 -->
-![Web vs Was](./images/post/webserver-vs-was.png){: width="400" height="200px"}
+![Web vs Was](/images/post/webserver-vs-was.png){: width="400" height="200px"}
 
 

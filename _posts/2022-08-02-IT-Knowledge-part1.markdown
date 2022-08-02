@@ -35,7 +35,8 @@ WAS : DB조회나 다양한 로직처리를 필요로하는 동적 콘텐츠 제
 ### 대표적인 웹 서버 / WAS:
 웹 서버 : Apache, NginX, Microsoft IIS 등
 WAS : Tomcat, JBoss, Jeus, Web Sphere 등        
-<img src="../images/post/webserver-vs-was.png" width="500px" height="200px" title="Web vs Was">
-
+<!--<img src="../images/post/webserver-vs-was.png" width="500px" height="200px" title="Web vs Was">
+-->
+![Web vs Was](../images/post/webserver-vs-was.png){: width="400" height="200px"}
 
 

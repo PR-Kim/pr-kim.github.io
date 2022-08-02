@@ -2,7 +2,7 @@
 title:  "IT 용어 part1"
 date:   2022-08-02
 categories: [Tech]
-tags: [Tech]
+tags: [Tech, Web3.0, WAS]
 ---
 
 ## Web 1.0, 2.0, 3.0

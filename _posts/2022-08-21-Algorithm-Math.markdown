@@ -11,7 +11,7 @@ tags: [Algorithm, Math]
 두 수 a,b의 최대공약수는 b, a%b의 공약수와 같다.  
 위를 이용해 아래와 같은 코드를 짤 수 있음  
 **재귀사용**
-```JAVA
+```java
 public int gcd(int a, int b){
   if(b==0){
     return a;
@@ -21,7 +21,7 @@ public int gcd(int a, int b){
 }
 ```
 **재귀 사용X**
-```JAVA
+```java
 public int gcd(int a, int b){
   while( b != 0){
     int r = a%b;
@@ -42,7 +42,7 @@ public int gcd(int a, int b){
 
 ## 소수
 ### 어떤 수 N이 소수인지 아닌지 판별하는 방법
-```JAVA
+```java
 public boolean prime(int n){
   if(n<2) return false;
   for(int i=2;i*i<n;i++){
